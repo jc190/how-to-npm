@@ -1,0 +1,19 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "Learning npm with freecodecamp.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc190/how-to-npm.git"
+  },
+  "author": "James Calhoun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jc190/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jc190/how-to-npm#readme"
+}
